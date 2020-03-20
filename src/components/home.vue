@@ -1,7 +1,6 @@
 <template>
   <div class="content">
-      <router-view></router-view>
-    <!-- <div class="banner hidden-xs">banner</div>
+    <div class="banner hidden-xs">banner</div>
     <div class="details">
       <div class="row">
         <div class="col-md-6">融资交易</div>
@@ -15,7 +14,7 @@
         <div class="col-md-6">融资交易</div>
         <div class="col-md-6">在线路演</div>
       </div>
-    </div> -->
+    </div>
   </div>
 </template>
 

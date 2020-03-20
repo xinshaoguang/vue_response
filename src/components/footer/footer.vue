@@ -1,5 +1,5 @@
 <template>
-  <div>789</div>
+  <div class="footer">footer部分</div>
 </template>
 
 <script>
@@ -12,6 +12,9 @@ export default {
 };
 </script>
 
-<style>
-
+<style lang="scss" scoped>
+    .footer {
+        height:200px;
+        background-color: orange;
+    }
 </style>
